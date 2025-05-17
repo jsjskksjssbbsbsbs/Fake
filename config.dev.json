@@ -28,7 +28,7 @@
   "nickNameBot": "-`ღ´ᵞᴼᵁᴿ 🌷𝐁𝐁'𝐗᯽",
   "prefix": "/",
   "database": {
-    "type": "SQLITE",
+    "type": "sqlite",
     "uriMongodb": "",
     "autoSyncWhenStart": false,
     "autoRefreshThreadInfoFirstTime": true,
